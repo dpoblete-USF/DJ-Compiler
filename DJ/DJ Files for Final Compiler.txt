@@ -1,0 +1,2 @@
+These DJ files do not have methods in them and therefore work with dj2dism:
+good1.dj, good2.dj, good3.dj, good4.dj, good11.dj, good13.dj, good20.dj, good22.dj, good24.dj, good25.dj, good26.dj, good28.dj, good30.dj
